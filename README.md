@@ -1,0 +1,2 @@
+flaskProject文件夹是后端项目的代码文件  
+vueProject文件夹中是前端项目的代码文件
